@@ -2,7 +2,7 @@
 
 Udacity - Full Stack Web Developer Nanodegree
 
-Project 2: A responsive portfolio website that displays images, description and links.
+Project 2: A responsive portfolio website that displays images, descriptions and links.
 
 ### How to run
 
